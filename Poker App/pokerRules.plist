@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Texas Hold &apos;Em</string>
+		<string>Hold &apos;em</string>
+		<string>Community card poker</string>
+		<string>2+, usually 2-9</string>
+		<string>52</string>
+		<string>French</string>
+		<string>Clockwise</string>
+		<string>A K Q J 10 9 8 7 6 5 4 3 2</string>
+		<string>Medium</string>
+		<string>This is the most popular community card game today. Each player is dealt two private &quot;hole&quot; cards, after which there is a betting round. Then three community cards are dealt face up (in no particular order or pattern) to form the &quot;flop&quot;, followed by a second betting round. A fourth community card (the &quot;turn&quot;) is followed by a third betting round, a fifth community card (the &quot;river&quot;) and the fourth and final betting round. At showdown, each player plays the best five-card hand he can make using any five cards among the two in his hand and the five on the board.</string>
+	</array>
+	<array>
+		<string>Pineapple Hold &apos;Em</string>
+		<string>None</string>
+		<string>Community card poker</string>
+		<string>2+, usually 2-9</string>
+		<string>52</string>
+		<string>French</string>
+		<string>Clockwise</string>
+		<string>A K Q J 10 9 8 7 6 5 4 3 2</string>
+		<string>Medium</string>
+		<string>Pineapple hold &apos;em exists halfway between Texas hold &apos;em and Omaha hold &apos;em. Players are initially dealt three cards. Each player then discards one of the three cards, and the game proceeds exactly as in Texas hold &apos;em.</string>
+	</array>
+	<array>
+		<string>Crazy Pineapple Hold &apos;Em</string>
+		<string>None</string>
+		<string>Community card poker</string>
+		<string>2+, usually 2-9</string>
+		<string>52</string>
+		<string>French</string>
+		<string>Clockwise</string>
+		<string>A K Q J 10 9 8 7 6 5 4 3 2</string>
+		<string>Medium</string>
+		<string>In Crazy Pineapple, the players discard their third card after the flop betting round, before the fourth community card is dealt.</string>
+	</array>
+	<array>
+		<string>Omaha Hold &apos;Em</string>
+		<string>Omaha</string>
+		<string>Community card poker</string>
+		<string>2+, usually 2-9</string>
+		<string>52</string>
+		<string>French</string>
+		<string>Clockwise</string>
+		<string>A K Q J 10 9 8 7 6 5 4 3 2
+</string>
+		<string>Medium+
+</string>
+		<string>Another hold &apos;em variant is Omaha hold&apos;em. Each player is dealt four cards to his private hand instead of two. The betting rounds and layout of community cards is identical to Texas hold &apos;em. At showdown, each player&apos;s hand is the best five-card hand he can make from exactly three of the five cards on the board, plus exactly two of his own cards.</string>
+	</array>
+	<array>
+		<string>Omaha Hi Lo</string>
+		<string>None</string>
+		<string>Community card poker</string>
+		<string>2+, usually 2-9</string>
+		<string>52</string>
+		<string>French</string>
+		<string>Clockwise</string>
+		<string>A K Q J 10 9 8 7 6 5 4 3 2</string>
+		<string>High</string>
+		<string>The high-low split version of Omaha is called many different names, such as &quot;Omaha Eight or better&quot;, &quot;Omaha HiLo&quot; or &quot;Omaha8&quot;. Each player, using the above rules, makes a separate five-card high hand and five-card low hand, and the pot is split between the high and low (which may be the same player). To qualify for low, a player must be able to play an 8-7-6-5-4 or lower. A few casinos play with a 9-low qualifier instead, but this is rare. In high-low split games, aces count as both high and low.</string>
+	</array>
+</array>
+</plist>
